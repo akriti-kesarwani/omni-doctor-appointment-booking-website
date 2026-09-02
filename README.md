@@ -18,6 +18,11 @@ Open in Browser:
 
 Visit http://localhost:5173 (or the port Vite provides) to view the application.
 
+
+Deployed Website:**  
+https://akriti-kesarwani.github.io/omni-doctor-appointment-booking-website/
+
+
 👣 User Flow
 Sign Up – The user registers using the sign-up page.
 
